@@ -1,0 +1,13 @@
+date,symbol,side,net_pnl,strategy,followed_plan
+2026-09-01,XAUUSD,long,125,Breakout,yes
+2026-09-02,XAUUSD,short,-80,Breakout,no
+2026-09-03,XAUUSD,long,180,Pullback,yes
+2026-09-04,XAUUSD,long,-60,Pullback,yes
+2026-09-07,XAUUSD,short,-150,Breakout,no
+2026-09-08,XAUUSD,long,210,Pullback,yes
+2026-09-09,XAUUSD,short,95,Breakout,yes
+2026-09-10,XAUUSD,long,0,Pullback,yes
+2026-09-11,XAUUSD,short,-110,Breakout,no
+2026-09-14,XAUUSD,long,165,Pullback,yes
+2026-09-15,XAUUSD,long,-70,Pullback,yes
+2026-09-16,XAUUSD,short,140,Breakout,yes

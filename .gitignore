@@ -1,0 +1,14 @@
+.DS_Store
+private-data/
+.env
+.env.*
+
+node_modules/
+dist/
+
+.venv/
+__pycache__/
+*.pyc
+.openai/state/
+
+.openai/

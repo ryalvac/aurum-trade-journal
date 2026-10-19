@@ -1,0 +1,11 @@
+node_modules
+.git
+private-data
+.venv
+.env
+.env.*
+dist
+reports
+notebooks
+legacy
+preview.png

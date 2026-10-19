@@ -1,0 +1,13 @@
+date,symbol,side,net_pnl,strategy,followed_plan,time,risk_amount,entry,exit,stop,lot,tick_size,tick_value,gross_pnl,commission,swap,fee,note
+2026-09-01,XAUUSD,long,125,Breakout,yes,10:15:00,100,,,,,,,130.0,-4,-1,0,Kurgusal eğitim kaydı; gerçek fiyat veya işlem değildir.
+2026-09-02,XAUUSD,short,-80,Breakout,no,15:40:00,100,,,,,,,-75.0,-4,-1,0,Kurgusal eğitim kaydı; gerçek fiyat veya işlem değildir.
+2026-09-03,XAUUSD,long,180,Pullback,yes,16:20:00,100,,,,,,,185.0,-4,-1,0,Kurgusal eğitim kaydı; gerçek fiyat veya işlem değildir.
+2026-09-04,XAUUSD,long,-60,Pullback,yes,10:15:00,100,,,,,,,-55.0,-4,-1,0,Kurgusal eğitim kaydı; gerçek fiyat veya işlem değildir.
+2026-09-07,XAUUSD,short,-150,Breakout,no,15:40:00,100,,,,,,,-145.0,-4,-1,0,Kurgusal eğitim kaydı; gerçek fiyat veya işlem değildir.
+2026-09-08,XAUUSD,long,210,Pullback,yes,16:20:00,100,,,,,,,215.0,-4,-1,0,Kurgusal eğitim kaydı; gerçek fiyat veya işlem değildir.
+2026-09-09,XAUUSD,short,95,Breakout,yes,10:15:00,100,,,,,,,100.0,-4,-1,0,Kurgusal eğitim kaydı; gerçek fiyat veya işlem değildir.
+2026-09-10,XAUUSD,long,0,Pullback,yes,15:40:00,100,,,,,,,5.0,-4,-1,0,Kurgusal eğitim kaydı; gerçek fiyat veya işlem değildir.
+2026-09-11,XAUUSD,short,-110,Breakout,no,16:20:00,100,,,,,,,-105.0,-4,-1,0,Kurgusal eğitim kaydı; gerçek fiyat veya işlem değildir.
+2026-09-14,XAUUSD,long,165,Pullback,yes,10:15:00,100,,,,,,,170.0,-4,-1,0,Kurgusal eğitim kaydı; gerçek fiyat veya işlem değildir.
+2026-09-15,XAUUSD,long,-70,Pullback,yes,15:40:00,,,,,,,,-65.0,-4,-1,0,Kurgusal eğitim kaydı; gerçek fiyat veya işlem değildir.
+2026-09-16,XAUUSD,short,140,Breakout,yes,16:20:00,,,,,,,,145.0,-4,-1,0,Kurgusal eğitim kaydı; gerçek fiyat veya işlem değildir.
